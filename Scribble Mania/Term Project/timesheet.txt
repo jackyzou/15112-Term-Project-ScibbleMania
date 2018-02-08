@@ -1,0 +1,6 @@
+timesheet
+
+Week1 
+Friday:2hrs
+Saturday:5hrs
+Sunday:5hrs
